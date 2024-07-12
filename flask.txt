@@ -1,0 +1,13 @@
+*   pip install virtualenv  ->this help to make env folder and env help to protect own data and port
+*   virtualenv env to make a env folder   main python or vs ke pyhton mix na ho alg alg rhe  insolate 
+
+*   Set-executionPolicy unresticted// use it when show errror
+    then make two folder in home static and templates also make a file app.py
+
+*  pip install flask
+
+THEN flaskminimal app texts write in app.py and do some changes accourding to you
+
+
+*******template store the code of in html css,bootstrap
+pip install flask-sqlalchemy
